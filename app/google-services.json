@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "872081038612",
+    "project_id": "java-project-b5828",
+    "storage_bucket": "java-project-b5828.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872081038612:android:7fed18d789e552a877f601",
+        "android_client_info": {
+          "package_name": "com.codecamp.chatapptemplate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872081038612-jn5fp7jrl6p35ls7439fqpkupoqniejr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGM7XBvXBQilcllgGDx6nPmy5kf-T4UyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872081038612-jn5fp7jrl6p35ls7439fqpkupoqniejr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

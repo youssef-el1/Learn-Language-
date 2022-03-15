@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginActivity">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="Login"
+        android:fontFamily="@font/roboto_bold"
+        android:textColor="@color/colorOnButton"
+        android:textSize="25sp"
+        android:layout_marginTop="30dp"/>
+
+    <RelativeLayout
+        android:id="@+id/loginRelativeLayoutID"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="-3dp"
+        android:background="@drawable/login_back">
+
+        <EditText
+            android:id="@+id/emailEditTextID"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginRight="30dp"
+            android:background="@drawable/edittext_back"
+            android:fontFamily="@font/roboto_medium"
+            android:hint="email"
+            android:inputType="textEmailAddress"
+            android:padding="15dp"
+            android:textColor="@color/gray"
+            android:textColorHint="@color/dark_gray"
+            android:textSize="13sp" />
+
+        <EditText
+            android:id="@+id/passwordEditTextID"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/emailEditTextID"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="30dp"
+            android:background="@drawable/edittext_back"
+            android:fontFamily="@font/roboto_medium"
+            android:hint="password"
+            android:inputType="numberPassword"
+            android:padding="15dp"
+            android:textColor="@color/gray"
+            android:textColorHint="@color/dark_gray"
+            android:textSize="13sp" />
+
+        <RelativeLayout
+            android:id="@+id/loginButtonID"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/passwordEditTextID"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginRight="30dp"
+            android:background="@drawable/login_button_back"
+            android:padding="15dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:fontFamily="@font/roboto_bold"
+                android:text="Login"
+                android:textColor="@color/white"
+                android:textSize="16sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/loginButtonID"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="30dp"/>
+
+        <com.codesgood.views.JustifiedTextView
+            android:id="@+id/signupTextID"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/signupTextID_Student"
+            android:layout_marginBottom="13dp"
+            android:text="SignUp Teacher"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textStyle="bold" />
+
+        <com.codesgood.views.JustifiedTextView
+            android:id="@+id/signupTextID_Student"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="0dp"
+            android:layout_marginBottom="61dp"
+            android:fontFamily="@font/roboto_medium"
+            android:gravity="center"
+            android:text="Signup Student"
+            android:textColor="@color/black"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+</RelativeLayout>

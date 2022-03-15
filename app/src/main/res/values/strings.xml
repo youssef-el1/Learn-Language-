@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChatApp Template</string>
+    <string name="error_invalid_email" translatable="false">This email address is invalid</string>
+    <string name="error_invalid_password" translatable="false">Password too short or does not match</string>
+    <string name="error_incorrect_password" translatable="false">This password is incorrect</string>
+    <string name="error_field_required" translatable="false">This field is required</string>
+</resources>

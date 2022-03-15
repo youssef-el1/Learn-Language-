@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable-v21/ripple_effect.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/active_chat_bac.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/add_friend_btn.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/alternate_email.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/archive_chat.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/arrow_back.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/avatar_boy.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/chat_inactive_back.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/custom_create_room.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/custom_image_border.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/dark_mode.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/edittext_back.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/ic__people.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/ic_add.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/ic_avatar.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/ic_baseline_done_24.xml" value="0.209" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/ic_book.xml" value="0.2075" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/ic_call.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/ic_camera_alt.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/ic_data_savar.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/ic_help.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/ic_inbox.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/ic_like.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/ic_living.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/ic_mute_icon.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/ic_notifications.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/ic_photo_camera_24.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/ic_profile_icon.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/ic_send.xml" value="0.2075" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/ic_settings.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/ic_stories.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/ic_switch.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/ic_videocam.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/icons_back.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/insert_photo.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/joint_group_back.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/keyboard_voice.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/login_back.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/login_button_back.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/message.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/photo_white.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/privacy_tip.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/reciver_shape.xml" value="0.2075" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/report_problem.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/ripple_effect.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/round_black_shape.xml" value="0.209" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/sender_shape.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/shape_left_panel.xml" value="0.2075" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/shape_login.xml" value="0.2075" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/splash_screen_people.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/text_back.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/drawable/text_white_back.xml" value="0.1935" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/layout/active_chat.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/layout/activity_change_password.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/layout/activity_chat_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/layout/activity_choice.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/layout/activity_current_user.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/layout/activity_dictionary.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/layout/activity_message_receiver.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/layout/activity_sign_up.xml" value="0.23148148148148148" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/layout/activity_sign_up_student.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/layout/activity_splash_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/layout/add_friend.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/layout/chats_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/layout/chats_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/layout/group_items.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/layout/people_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/layout/reciver_layout_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/layout/sender_layout_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/ChatApp-Template-main/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

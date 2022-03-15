@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_height="match_parent"
+    tools:context=".CurrentUserActivity">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/appbarLayoutID"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize">
+        <androidx.appcompat.widget.Toolbar
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:elevation="10dp">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:orientation="horizontal"
+                android:elevation="10dp"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:id="@+id/save2"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_gravity="center"
+                    android:layout_marginStart="210dp"
+                    android:layout_marginTop="15dp"
+                    android:layout_marginEnd="1dp"
+                    android:layout_marginBottom="8dp"
+                    android:layout_toEndOf="@+id/leftRelativeLayoutID"
+                    android:background="@drawable/round_black_shape"
+                    android:padding="5dp"
+                    android:src="@drawable/ic_baseline_done_24"
+                    app:tint="@color/white" />
+
+                <RelativeLayout
+                    android:id="@+id/leftRelativeLayoutID"
+                    android:layout_width="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_height="wrap_content">
+
+                    <ImageView
+                        android:id="@+id/arrowBackButtonID"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginTop="15dp"
+                        android:layout_marginEnd="10dp"
+                        android:layout_marginBottom="10dp"
+                        android:src="@drawable/arrow_back" />
+
+                    <com.codesgood.views.JustifiedTextView
+                        android:id="@+id/chatsTextID"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginEnd="10dp"
+                        android:layout_marginBottom="10dp"
+                        android:layout_toRightOf="@+id/arrowBackButtonID"
+                        android:fontFamily="@font/roboto_bold"
+                        android:text="Me"
+                        android:textColor="@color/black"
+                        android:textSize="16sp" />
+
+                </RelativeLayout>
+
+
+
+            </RelativeLayout>
+        </androidx.appcompat.widget.Toolbar>
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_vertical"
+        android:layout_marginTop="70dp"
+        android:background="@color/white"
+        android:gravity="start"
+        android:orientation="vertical"
+        tools:context=".SettingsAcivity">
+
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/setting_image2"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:src="@drawable/ic_profile_icon"
+            app:civ_border_color="@color/colorOnBackground"
+            app:civ_border_width="2dp" />
+
+        <EditText
+            android:id="@+id/setting_name2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/login_button_back"
+
+            android:gravity="start"
+            android:padding="10dp"
+            android:paddingStart="10dp"
+            android:paddingLeft="10dp"
+            android:text="User Name"
+            android:textSize="14dp"
+            android:textStyle="bold" />
+
+
+        <EditText
+            android:id="@+id/setting_email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/login_button_back"
+
+            android:gravity="start"
+            android:padding="10dp"
+            android:text="06864942"
+            android:textSize="15dp"
+            android:textStyle="normal" />
+
+        <Button
+            android:id="@+id/logout"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:background="@drawable/login_button_back"
+            android:layout_gravity="center"
+            android:layout_marginTop="150dp"
+            android:text="Log Out" />
+
+        <Button
+            android:id="@+id/change_password_teacher"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:background="@drawable/login_button_back"
+            android:layout_marginTop="25dp"
+            android:layout_marginBottom="72dp"
+            android:text="change Password" />
+
+    </LinearLayout>
+
+
+
+
+</RelativeLayout>
